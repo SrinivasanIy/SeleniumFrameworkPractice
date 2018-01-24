@@ -1,0 +1,9 @@
+/Application.logs
+/Application.xlsx
+/Properties.properties
+/config/
+/log4j.properties
+/modules/
+/pages/
+/selenium.logs
+/tests/

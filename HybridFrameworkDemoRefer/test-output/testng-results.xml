@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[File successfully created.]]>
+    </line>
+    <line>
+      <![CDATA[File InputStream successfully created.]]>
+    </line>
+    <line>
+      <![CDATA[FileInputStream successfully loaded.]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11738" started-at="2018-01-09T12:58:23Z" finished-at="2018-01-09T12:58:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11738" started-at="2018-01-09T12:58:23Z" finished-at="2018-01-09T12:58:35Z">
+      <class name="tests.Testscripts">
+        <test-method status="PASS" signature="useproperty()[pri:0, instance:tests.Testscripts@3dfc5fb8]" name="useproperty" is-config="true" duration-ms="9" started-at="2018-01-09T18:28:23Z" finished-at="2018-01-09T18:28:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[File successfully created.]]>
+            </line>
+            <line>
+              <![CDATA[File InputStream successfully created.]]>
+            </line>
+            <line>
+              <![CDATA[FileInputStream successfully loaded.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- useproperty -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.Testscripts@3dfc5fb8]" name="setup" is-config="true" duration-ms="10712" started-at="2018-01-09T18:28:23Z" finished-at="2018-01-09T18:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getfrmexcel()[pri:0, instance:tests.Testscripts@3dfc5fb8]" name="getfrmexcel" duration-ms="600" started-at="2018-01-09T18:28:34Z" finished-at="2018-01-09T18:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getfrmexcel -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.Testscripts@3dfc5fb8]" name="teardown" is-config="true" duration-ms="392" started-at="2018-01-09T18:28:34Z" finished-at="2018-01-09T18:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.Testscripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
